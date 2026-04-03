@@ -1,0 +1,74 @@
+PERSONAS
+
+
+Personas - help understand specific needs of people using our software
+
+
+Persona 1
+Client
+Regular person involved in a legal case
+Goal- send files to lawyer safely and see what is happening in their case
+
+
+Pesona 2
+Lawyer
+Attorney managing a lot of casses
+Goal: Look through client’s files and find important ones for court
+Problem- Too many documents and emails. Lose track of whats important
+
+
+Persona 3
+Legal Reviewer
+* Role: Associate Attorney
+* Goal: To find "Relevant" evidence in a large database of documents as fast as possible.
+* Software Needs: A powerful search bar, easy document tagging (One-click labeling), and a clear document viewer.
+* Pain Point: Systems that are slow to load or have too many unnecessary buttons.
+Persona 4
+Litigation Support Manager
+* Role: IT / Legal Operations
+* Goal: To move large amounts of client data into the system without losing any information.
+* Software Needs: High-speed bulk uploading, automated error reporting, and data security tracking.
+* Pain Point: Dealing with "broken" files or encrypted documents that won't upload.
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+USER FLOWS FOR LEGAL WORKFLOWS
+
+
+Tracks the step-by-step journey a user takes to complete a task
+
+
+Client Workflow
+Open app-> Upload-> Send Message-> Send
+
+
+Lawyer Workflow
+Notification-> Search-> Review-> Label-> Finish
+
+
+Legal Reviewer Workflow
+keywords search-> apply filter-> Document Inspection-> Decision/Tagging->Apply Redaction->Export production  
+
+
+Support Manager Workflow
+Authentication-> Create case-> Data Upload-> System Processing-> Review Expectations-> Release
+
+
+
+
+Success Metrics
+Speed
+Accuracy
+Defensibility
