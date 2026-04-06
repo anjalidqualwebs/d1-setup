@@ -12,7 +12,7 @@ Goal- send files to lawyer safely and see what is happening in their case
 
 Pesona 2
 Lawyer
-Attorney managing a lot of casses
+Attorney managing a lot of cases
 Goal: Look through client’s files and find important ones for court
 Problem- Too many documents and emails. Lose track of whats important
 
@@ -23,6 +23,8 @@ Legal Reviewer
 * Goal: To find "Relevant" evidence in a large database of documents as fast as possible.
 * Software Needs: A powerful search bar, easy document tagging (One-click labeling), and a clear document viewer.
 * Pain Point: Systems that are slow to load or have too many unnecessary buttons.
+
+
 Persona 4
 Litigation Support Manager
 * Role: IT / Legal Operations
